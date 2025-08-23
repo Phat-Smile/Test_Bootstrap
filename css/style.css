@@ -5,3 +5,12 @@
 .navbar .navbar-brand img {
     max-width: 130px;
 }
+
+#subscribe {
+    background-image: url(https://anhcuoiviet.vn/wp-content/uploads/2022/11/background-dep-0.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#footer img{
+    max-width: 130px;
+}
