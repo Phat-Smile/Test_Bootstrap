@@ -14,3 +14,15 @@
 #footer img{
     max-width: 130px;
 }
+
+@media (max-width: 380px) {
+    .social {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 12px; 
+    }
+    .social a {
+        margin: 0 !important; /* bỏ margin trái/phải nếu có */
+    }
+}
